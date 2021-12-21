@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216862256027",
+    "project_id": "aia-training",
+    "storage_bucket": "aia-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216862256027:android:0ff0c43ce3d9719ef9cf3e",
+        "android_client_info": {
+          "package_name": "com.example.final_training_aia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216862256027-cfiqpbguh889vpv6o8ggdfuc3lb64unu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmUNT2PdaxLrrRXdXP7nRQxGOHZLTsbcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216862256027-cfiqpbguh889vpv6o8ggdfuc3lb64unu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
