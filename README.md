@@ -1,4 +1,4 @@
-# final_training_aia
+# Movie app
 
 A new Flutter project.
 
